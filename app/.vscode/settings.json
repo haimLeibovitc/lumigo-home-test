@@ -1,0 +1,5 @@
+{
+    "prettier.trailingComma": "none",
+    "prettier.packageManager": "yarn",
+    "eslint.format.enable": true
+}
